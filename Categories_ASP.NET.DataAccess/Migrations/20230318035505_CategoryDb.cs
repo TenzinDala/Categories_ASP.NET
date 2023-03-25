@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace Categories_ASP.NET.Migrations
+namespace Categories_ASP.NET.Migrations     
 {
     /// <inheritdoc />
     public partial class CategoryDb : Migration

@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Categories_ASP.NET.Controllers
+namespace Categories_ASP.NET.Areas.Customer.Controllers
 {
     public class HomeController : Controller
     {
